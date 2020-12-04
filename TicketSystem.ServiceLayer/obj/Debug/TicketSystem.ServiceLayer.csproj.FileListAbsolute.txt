@@ -1,0 +1,15 @@
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.ServiceLayer.dll.config
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.ServiceLayer.dll
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.ServiceLayer.pdb
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\EntityFramework.dll
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.DomainModels.dll
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.DomainModels.pdb
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\TicketSystem.DomainModels.dll.config
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\EntityFramework.xml
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\obj\Debug\TicketSystem.ServiceLayer.csprojAssemblyReference.cache
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\obj\Debug\TicketSystem.ServiceLayer.csproj.CoreCompileInputs.cache
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\obj\Debug\TicketSystem.ServiceLayer.csproj.CopyComplete
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\obj\Debug\TicketSystem.ServiceLayer.dll
+E:\.Net Projects\TicketSystem\TicketSystem.ServiceLayer\obj\Debug\TicketSystem.ServiceLayer.pdb

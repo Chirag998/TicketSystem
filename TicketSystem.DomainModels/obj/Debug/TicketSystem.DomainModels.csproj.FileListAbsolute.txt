@@ -1,0 +1,11 @@
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\TicketSystem.DomainModels.dll.config
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\TicketSystem.DomainModels.dll
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\TicketSystem.DomainModels.pdb
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\EntityFramework.dll
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\EntityFramework.xml
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\obj\Debug\TicketSystem.DomainModels.csproj.CoreCompileInputs.cache
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\obj\Debug\TicketSystem.DomainModels.csproj.CopyComplete
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\obj\Debug\TicketSystem.DomainModels.dll
+E:\.Net Projects\TicketSystem\TicketSystem.DomainModels\obj\Debug\TicketSystem.DomainModels.pdb

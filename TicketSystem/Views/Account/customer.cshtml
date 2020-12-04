@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "customer";
+}
+
+<h4>You are being supported by  @ViewBag.name</h4>
+
+
+<input type="submit" value="Exit" class="btn btn-sm" onclick="location.href='@Url.Action("Logout", "Account")'" />
